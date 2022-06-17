@@ -15,8 +15,8 @@
   margin: auto;
   flex-direction: row;
   font-family: "Lexend Deca", sans-serif;
-  margin-left:0%;
-  margin-right:50%
+  margin-left:10%;
+  margin-right:90%
 }
 .top {
   padding: 5em;
@@ -62,8 +62,9 @@ form.icon:hover{
     background-color: rgb(206, 17, 17);
      }
     
-.favicon{
-  width: 50px;
+img{
+  width: 10px;
+  height:10px;
   margin:30px 0;
 }
 
